@@ -73,6 +73,11 @@ Security and governance are paramount — encryption, access controls, and full 
 
 ---
 
+## Data sources
+
+https://www.kaggle.com/datasets/prasad22/healthcare-dataset (Wide range of curated datasets: patient records, hospital data, disease registries).
+
+
 ## Step-by-step implementation
 
 The step-by-step instructions remain the same (S3 → Glue → Athena → QuickSight) but with **healthcare datasets**:
