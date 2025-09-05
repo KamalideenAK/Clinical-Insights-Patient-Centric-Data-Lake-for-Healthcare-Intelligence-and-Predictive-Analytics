@@ -1,0 +1,4 @@
+patient_id,admission_id,admission_date,discharge_date,diagnosis,department
+P001,A1001,2025-08-01,2025-08-05,Hypertension,Cardiology
+P002,A1002,2025-08-02,2025-08-06,Diabetes,Endocrinology
+P003,A1003,2025-08-03,2025-08-04,Asthma,Pulmonology

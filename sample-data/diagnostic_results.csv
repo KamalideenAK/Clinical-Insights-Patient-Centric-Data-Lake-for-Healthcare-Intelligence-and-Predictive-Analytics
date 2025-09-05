@@ -1,0 +1,4 @@
+patient_id,test_id,test_type,test_date,result_value,unit
+P001,T9001,Blood Pressure,2025-08-01,140/90,mmHg
+P002,T9002,Blood Sugar,2025-08-02,8.5,mmol/L
+P003,T9003,Spirometry,2025-08-03,85,%

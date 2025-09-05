@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Clinical-Insights-Patient-Centric-Data-Lake-for-Healthcare-Intelligence-and-Predictive-Analytics
 A secure, HIPAA‑ready AWS data lake designed for healthcare organizations to unify EHR, imaging, and IoT health data. Enables advanced analytics, predictive modeling, and real‑time clinical insights to improve patient outcomes, optimize operations, and support data‑driven decision‑making
 
@@ -129,3 +130,16 @@ MIT
 ---
 
 *End of README*
+=======
+# Clinical Insights & Patient-Centric Data Lake for Healthcare Intelligence and Predictive Analytics
+
+This project demonstrates how to build a secure, scalable, and cost-effective Healthcare Data Lake using AWS services such as S3, Glue, Athena, and QuickSight.
+
+## Key Value
+- Holistic patient insights
+- Predictive analytics readiness
+- Operational efficiency
+- Regulatory compliance (HIPAA/GDPR)
+
+Refer to docs/runbook.md for detailed setup instructions.
+>>>>>>> ead10d3 (Initial commit: Clinical-Insights-Patient-Centric-Data-Lake-for-Healthcare-Intelligence-and-Predictive-Analytics)

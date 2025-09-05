@@ -1,0 +1,5 @@
+[
+  {"patient_id": "P001", "device_id": "D01", "timestamp": "2025-08-01T09:00:00Z", "heart_rate": 78, "steps": 1200},
+  {"patient_id": "P002", "device_id": "D02", "timestamp": "2025-08-01T10:00:00Z", "heart_rate": 85, "steps": 980},
+  {"patient_id": "P003", "device_id": "D03", "timestamp": "2025-08-01T11:00:00Z", "heart_rate": 72, "steps": 1500}
+]
