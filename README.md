@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Clinical-Insights-Patient-Centric-Data-Lake-for-Healthcare-Intelligence-and-Predictive-Analytics
 A secure, HIPAA‑ready AWS data lake designed for healthcare organizations to unify EHR, imaging, and IoT health data. Enables advanced analytics, predictive modeling, and real‑time clinical insights to improve patient outcomes, optimize operations, and support data‑driven decision‑making
 
@@ -71,14 +70,12 @@ Security and governance are paramount — encryption, access controls, and full 
   docs/                     # screenshots guides and runbook
   .github/workflows/        # optional: github actions for terraform plan/test
 ```
-
 ---
-
 ## Data sources
 
 https://www.kaggle.com/datasets/prasad22/healthcare-dataset (Wide range of curated datasets: patient records, hospital data, disease registries).
 
-
+---
 ## Step-by-step implementation
 
 The step-by-step instructions remain the same (S3 → Glue → Athena → QuickSight) but with **healthcare datasets**:
